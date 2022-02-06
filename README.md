@@ -1,2 +1,3 @@
-# gui
-game gui i wrote for galaxy
+# GUI
+
+C++ GUI I wrote for learning purposes.
